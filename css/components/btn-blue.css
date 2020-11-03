@@ -1,0 +1,12 @@
+.btn-blue {
+    background-color: #456888;
+    color: white;
+    padding: 8px 8px;
+    border-radius: 32px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn-blue:hover {
+	background-color: #cbca1f;
+	color: #456888;
+	}

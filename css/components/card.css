@@ -1,0 +1,28 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    background: white;
+    align-items: start;
+    padding: 0;
+    padding-block-start: 10px;
+    padding-block-end: 10px;
+    margin: 20px auto;
+    box-shadow: 0px 10px 20px rgb(101 104 193 / 30%);
+    border-radius: 5px;
+}
+
+.card img {
+	width: 300px;
+}
+
+.card h3 {
+	font-size: 24px;
+    padding: 0px;
+    margin: 0px auto;
+    margin-left: 30px;
+}
+
+.card p {
+	margin-top: 0px;
+    margin-left: 30px;
+}

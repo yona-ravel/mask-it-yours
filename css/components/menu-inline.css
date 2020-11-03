@@ -1,0 +1,22 @@
+.menu-inline {
+	list-style: none;
+	padding-left: 0;
+	background-color: white;
+	}
+
+.menu-inline li {
+	display: inline;
+	padding: 10px;
+	font-family: 'Anton', sans-serif;
+	font-size: 24px;
+	}
+
+.menu-inline a {
+	color: #456888;
+	padding-left: 40px;
+    padding-right: 40px;
+}
+
+#logo {
+	width: 80px;
+}
