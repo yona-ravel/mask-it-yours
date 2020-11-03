@@ -1,0 +1,11 @@
+.info {
+	list-style: none;
+	padding-left: 0px;
+	color: #456888;
+}
+
+#info-title {
+	color: #456888;
+	text-decoration-line: overline;
+	margin-bottom: 0px;
+}
