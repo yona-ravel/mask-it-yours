@@ -6,6 +6,7 @@
 @import url("components/banner.css");
 @import url("components/card.css");
 @import url("components/menu-inline.css");
+@import url("components/info.css");
 
 body {
 	background-image: url("../images/wallpaper.jpg");
