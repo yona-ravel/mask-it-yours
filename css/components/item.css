@@ -5,6 +5,14 @@
     border-radius: 10%;
 }
 
+.item {
+	margin-right: 40px;
+	margin-left: 40px;
+}
+.item-list {
+	display: inline-flex;
+}
+
 .item h3 {
 	margin: 0px;
 }
