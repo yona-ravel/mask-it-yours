@@ -1,0 +1,98 @@
+.back {
+	color:black;
+	text-align: left;
+	padding-left: 20px;
+}
+
+.back a {
+	color:black;
+	text-align: left;
+	cursor: pointer;
+}
+
+.back button {
+	display: block;
+ 	width: 10%;
+  	border: none;
+  	color: white;
+  	background-color: #456888;
+  	border-radius: 2px;
+  	padding: 14px 28px;
+  	font-size: 16px;
+  	cursor: pointer;
+ 	text-align: center;
+}
+
+.adult-card {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.adult-card {
+	padding:40px;
+	align-items: center;
+	justify-content: space-between;
+	flex-basis: 250px;
+	flex-grow: 1;
+}
+
+
+
+.card-smile img {
+	width: 650px;
+	margin-top: -60px;
+}
+
+.card-smile h2 {
+	flex-grow: 1;
+	padding-left: 20px;
+	font-size: 50px;
+	letter-spacing: 7px;
+	margin-top: -60px;
+}
+
+
+
+.card-basket {
+	list-style: none; 
+	padding-right: 300px;
+	margin: 20px;
+	width: 20px; 
+}
+
+.card-basket img {
+	width: 150px;
+	margin:25px;
+}
+
+.card-basket button {
+	background-color: #DED958; 
+  	border:none;
+ 	color: black;
+  	padding: 5px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+ 	font-size: 16px;
+ 	margin: 4px 2px;
+ 	cursor: pointer;
+  	border-radius: 5px;
+  	width: 200px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+
+
+.card-description p {
+	text-align: justify;
+	text-align-last: left;
+	padding-left: 50px;
+	font-size: 20px;
+	margin-top: -30px;
+}
+
+
+
+
+

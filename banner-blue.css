@@ -1,0 +1,16 @@
+.banner-blue {
+	background-color: #456888;
+	color: white;
+	padding: 10px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner-blue h1 {
+	font-size: 40px;
+}
+
+.banner-blue a {
+	font-size: 15px;
+}
+
