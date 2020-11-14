@@ -8,6 +8,10 @@
 @import url("components/menu-inline.css");
 @import url("components/info.css");
 @import url("components/professional-container.css");
+@import url("components/masks-list.css");
+@import url("components/smile-card.css");
+@import url("components/dropdown-btn.css");
+@import url("components/banner-blue.css");
 
 body {
 	background-image: url("../images/wallpaper.jpg");
