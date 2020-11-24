@@ -1,0 +1,32 @@
+.sport-masks-list {
+  display: center;
+  color: black;
+}
+
+.column-sport {
+  float: left;
+  width: 17%;
+  padding: 25px;
+  margin-left: 35px;
+  text-align: center;
+}
+
+.column-sport img {
+  width: 200px;
+}
+
+.column-sport a {
+  color: black;
+}
+
+a:hover {
+  color: #456888;
+}
+
+@media screen and (max-width: 600px) {
+  .column-sport {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
