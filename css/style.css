@@ -12,6 +12,8 @@
 @import url("components/smile-card.css");
 @import url("components/dropdown-btn.css");
 @import url("components/banner-blue.css");
+@import url("components/banner-sports.css");
+@import url("components/sport-masks-list.css");
 
 body {
 	background-image: url("../images/wallpaper.jpg");
