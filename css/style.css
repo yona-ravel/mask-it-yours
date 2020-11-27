@@ -17,6 +17,7 @@
 @import url("components/banner-sports.css");
 @import url("components/sport-masks-list.css");
 @import url("components/personalised-card.css");
+@import url("components/profile-card.css");
 
 body {
 	background: white;
