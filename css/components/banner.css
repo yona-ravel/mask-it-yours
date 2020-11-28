@@ -13,3 +13,8 @@
 #products-banner {
 	background-image: linear-gradient(-225deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.2) 50%), url(../../images/background-products.jpg);
 }
+
+#personalise-banner {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.2) 50%), url(../../images/background-personalise.jpg);
+}
+
